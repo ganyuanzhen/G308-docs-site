@@ -16,7 +16,7 @@
 
 ## 贡献指南
 
-本站目前是托管在GitHub上面的，地址：https://kgithub.com/ganyuanzhen/G308-docs-site 
+本站目前是托管在GitHub上面的，地址：https://github.com/ganyuanzhen/G308-docs-site 。进不去可将github.com改为kgithub.com。
 
 所有的文档均可以在上述仓库找到。要想向本仓库提供修改或添加内容的，请参考以下流程：
 
