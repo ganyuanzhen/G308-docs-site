@@ -9,7 +9,8 @@
 
 - [Git & Codeup 相关](/Projects/git-codeup-g308) 【迁移中】
 - [新队员Hal库快速上手指南](/Projects/G308_HAL_Guide/README.md)
-- [视觉组入门文档](/Projects/G308-Visual-Guide/README.md)
+- [视觉组入门文档（废弃）](/Projects/G308-Visual-Guide/README.md)
+- [视觉组，入门与实战](https://visual.docs.g308.top/)
 - [CMake 简单入门](https://blog.qinyn.eu.org/2023/02/09/CMake-tutorial/)【欢迎补充】
 - [深度学习简单教程](https://github.com/ganyuanzhen/Deep-Learning-Notes)【正在编写中~~~】
 - [代码及版本号规范](/Projects/code-and-versioning-format) 【迁移中】
